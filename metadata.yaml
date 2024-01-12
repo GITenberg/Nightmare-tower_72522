@@ -1,0 +1,37 @@
+_repo: Nightmare-tower_72522
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Merwin, Sam
+    aliases:
+    - Merwin, Samuel Kimball, Jr.
+    - Ferrat, Jacques Jean
+    - Sprague, Carter
+    birthdate: 1910
+    deathdate: 1996
+    gutenberg_agent_id: '33758'
+    url: http://www.gutenberg.org/2009/agents/33758
+    wikipedia: https://en.wikipedia.org/wiki/Sam_Merwin,_Jr.
+description: ''
+gutenberg_issued: '2023-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72522'
+language: en
+pgterms:marc905: 20231209075819ferrat
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Telepathy -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Nightmare tower
+url: http://www.gutenberg.org/ebooks/72522
